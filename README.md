@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-hady-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-hady-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-hady-dev&theme=city_lights" alt="ahmed-hady-dev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/3b_hadi" target="blank"><img src="https://img.shields.io/twitter/follow/3b_hadi?logo=twitter&style=for-the-badge" alt="3b_hadi" /></a> </p>
 
 - 📫 How to reach me **ahmed.hady.dev@gmail.com**
