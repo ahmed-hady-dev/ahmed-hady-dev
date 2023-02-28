@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-hady-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-hady-dev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/3b_hadi" target="blank"><img src="https://img.shields.io/twitter/follow/3b_hadi?logo=twitter&style=for-the-badge" alt="3b_hadi" /></a> </p>
 <p align="left"> <a href="https://wakatime.com/@6063abdf-3d42-479d-b00d-4db22225af7f" target="blank"><img src="https://wakatime.com/badge/user/6063abdf-3d42-479d-b00d-4db22225af7f.svg" alt="3b_hadi" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/3b_hadi" target="blank"><img src="https://img.shields.io/twitter/follow/3b_hadi?logo=twitter&style=for-the-badge" alt="3b_hadi" /></a> </p>
 
 - 📫 How to reach me **ahmed.hady.dev@gmail.com**
 
