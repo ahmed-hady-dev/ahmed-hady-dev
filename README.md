@@ -1,5 +1,5 @@
 <h1 align="center">
-<br> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"> Hello there,I'm Ahmed Abd-Elhady <img src="https://visitcount.itsvg.in/api?id=ahmed-hady-dev&icon=0&color=0" style="display:inline-block;margin:auto auo">
+<br> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"> Hello there,I'm Ahmed Abd-Elhady <img src="https://komarev.com/ghpvc/?username=ahmed-hady-dev&label=Profile%20views&color=0e75b6&style=flat" style="display:inline-block;margin:auto auo">
  <br>
 </h1>
 
